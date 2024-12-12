@@ -1,6 +1,6 @@
 {
   "name": "lcdp-map",
-  "version": "0.0.5",
+  "version": "0.0.16",
   "description": "A Leaflet wrapper library for Appsmith with custom VLU functions",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
@@ -17,12 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tiendepchai/OLP-PMNM-VLU_WW3.git"
+    "url": "git+https://github.com/Tiendepchai/VLU-WW3.git"
   },
   "bugs": {
-    "url": "https://github.com/Tiendepchai/OLP-PMNM-VLU_WW3.git"
+    "url": "https://github.com/Tiendepchai/VLU-WW3.git"
   },
-  "homepage": "https://github.com/Tiendepchai/OLP-PMNM-VLU_WW3/blob/main/lcdp-map/README.md",
+  "homepage": "https://github.com/Tiendepchai/VLU-WW3/blob/main/lcdp-map/README.md",
   "dependencies": {
     "http-server": "^14.1.1",
     "leaflet": "^1.9.4",

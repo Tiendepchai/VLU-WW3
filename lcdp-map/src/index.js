@@ -1,19 +1,11 @@
-import L from "leaflet";
+// import L from "leaflet";
 
 class lcdp_map {
   constructor(containerId, options = {}) {
-    this.map = null;
+    this.map = L.map(containerId, options);
     this.markers = [];
     this.polylines = [];
     this.currentLocation = null;
-    this.init(containerId, options);
-  }
-
-  init(containerId, options) {
-    // Initialize the map
-    this.map = L.map(containerId, options);
-
-    // Add the default tile layer
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "© OpenStreetMap contributors",
     }).addTo(this.map);

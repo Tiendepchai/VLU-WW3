@@ -43,6 +43,6 @@ npm run build
 - Verify the package on npm:  
   [https://www.npmjs.com/package/lcdp-map](https://www.npmjs.com/package/lcdp-map)  
 - Check the CDN URL:  
-  [https://cdn.jsdelivr.net/npm/lcdp-map@0.0.5/dist/index.umd.js](https://cdn.jsdelivr.net/npm/lcdp-map@0.0.5/dist/index.umd.js)  
-- Test in Appsmith with the new URL.  
+  [https://cdn.jsdelivr.net/npm/lcdp-map@0.0.16/dist/index.umd.js](https://cdn.jsdelivr.net/npm/lcdp-map@0.0.16/dist/index.umd.js)  
+  
 
