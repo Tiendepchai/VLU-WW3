@@ -1,4 +1,4 @@
-import L from "leaflet";
+// import L from "leaflet";
 
 class lcdp_map {
   constructor(containerId, options = {}) {
